@@ -3,3 +3,5 @@ Yo fui colaborador de este proyecto en mis prácticas de DAM. Este proyecto cons
 Tiene apartados interesantes como generar documentos PDF, enviar correos a través de un servidor SMTP y exportar datos a CSV. Sin duda, con este proyecto se han optimizado grandemente las gestiones internas del ayuntamiento.
 
 ![Captura de pantalla 2025-06-18 122801](https://github.com/user-attachments/assets/5e549590-b55a-454d-956e-5a696309695d)
+
+Fui encargado de desarrollar varias partes del software de este proyecto así como de las interfaces de usuario correspondientes a cada parte de la aplicación que me tocaba.
