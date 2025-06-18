@@ -6,4 +6,6 @@ Tiene apartados interesantes como generar documentos PDF, enviar correos a trav�
 
 Fui encargado de desarrollar varias partes del software de este proyecto así como de las interfaces de usuario correspondientes a cada parte de la aplicación que me tocaba.
 Yo me encargué de construir las plantillas HTML con las que generar los documentos PDF y de implementar la funcionalidad completa de generación de documentos PDF.
-Mi compañero propietario de este proyecto como TFG se encargó del envío de correos por SMTP y de la exportación de datos a CSV.
+Uno de mis compañeros de prácticas es el propietario de este proyecto ya que lo tuvo como TFG de DAM, él se encargó del envío de correos por SMTP y de la exportación de datos a CSV.
+
+Nota: Por motivos de confidencialidad y acuerdos de prácticas, el código fuente de este proyecto no puede ser publicado. Sin embargo, puedo detallar mi contribución y las tecnologías utilizadas en una entrevista.
