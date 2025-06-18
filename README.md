@@ -3,7 +3,7 @@ Durante mis prácticas de Desarrollo de Aplicaciones Multiplataforma (DAM), cola
 
 En el marco de esta colaboración, fui el encargado de desarrollar varias partes del software, así como las interfaces de usuario correspondientes a cada módulo que me fue asignado.
 
-Mi contribución principal y completa se centró en la Generación de Documentos PDF. Fui responsable de construir las plantillas HTML necesarias y de implementar la funcionalidad completa para la automatización de la creación de informes y documentos.
+Mi contribución principal y completa se centró en la Generación de Documentos PDF. Fui responsable de construir las plantillas HTML necesarias y de implementar la funcionalidad completa para la automatización de la creación de informes y documentos en formato PDF.
 
 Uno de mis compañeros de prácticas es el propietario de este proyecto, ya que lo tuvo como TFG de DAM; él se encargó del envío de correos por SMTP y de la exportación de datos a CSV.
 
