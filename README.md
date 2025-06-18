@@ -8,4 +8,4 @@ Fui encargado de desarrollar varias partes del software de este proyecto así co
 Yo me encargué de construir las plantillas HTML con las que generar los documentos PDF y de implementar la funcionalidad completa de generación de documentos PDF.
 Uno de mis compañeros de prácticas es el propietario de este proyecto ya que lo tuvo como TFG de DAM, él se encargó del envío de correos por SMTP y de la exportación de datos a CSV.
 
-**__Nota__**: Por motivos de confidencialidad y acuerdos de prácticas, el código fuente de este proyecto no puede ser publicado. Sin embargo, puedo detallar mi contribución y las tecnologías utilizadas en una entrevista.
+**_Nota_**: Por motivos de confidencialidad y acuerdos de prácticas, el código fuente de este proyecto no puede ser publicado. Sin embargo, puedo detallar mi contribución y las tecnologías utilizadas en una entrevista.
