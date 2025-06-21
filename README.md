@@ -7,7 +7,9 @@ Mi contribución principal y completa se centró en la Generación de Documentos
 
 Uno de mis compañeros de prácticas es el propietario de este proyecto, ya que lo tuvo como TFG de DAM; él se encargó del envío de correos por SMTP y de la exportación de datos a CSV.
 
-Gracias a este proyecto, se han optimizado grandemente las gestiones internas del ayuntamiento, contribuyendo a una mejora significativa en su eficiencia.
+Gracias a este proyecto, se han optimizado grandemente las gestiones internas del ayuntamiento, contribuyendo a una mejora significativa en su eficiencia.  
+
+**_Nota_**: Por motivos de confidencialidad y acuerdos de prácticas, el código fuente de este proyecto no puede ser publicado. Sin embargo, puedo detallar mi contribución y las tecnologías utilizadas en una entrevista.
 
 ## TECNOLOGÍAS UTILIZADAS
 Lenguaje de Programación: **_Python_**  
@@ -19,8 +21,6 @@ Base de Datos: **_SQLite_**
 
 Generación de PDF: **_xhtml2pdf_**  
 Preparación de las plantillas HTML: **_Formateo nativo de strings_**  
-  
-**_Nota_**: Por motivos de confidencialidad y acuerdos de prácticas, el código fuente de este proyecto no puede ser publicado. Sin embargo, puedo detallar mi contribución y las tecnologías utilizadas en una entrevista.
 
 ![Captura de pantalla 2025-06-18 122801](https://github.com/user-attachments/assets/5e549590-b55a-454d-956e-5a696309695d)  
 
