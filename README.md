@@ -10,15 +10,15 @@ Uno de mis compañeros de prácticas es el propietario de este proyecto, ya que 
 Gracias a este proyecto, se han optimizado grandemente las gestiones internas del ayuntamiento, contribuyendo a una mejora significativa en su eficiencia.
 
 ### TECNOLOGÍAS UTILIZADAS
-- Lenguaje de Programación: **_Python_**
-- Entorno de Desarrollo: **_Visual Studio Code_**
-- Patrón de Diseño y Arquitectura: **_MVC_**
+Lenguaje de Programación: **_Python_**
+Entorno de Desarrollo: **_Visual Studio Code_**
+Patrón de Diseño y Arquitectura: **_MVC_**
 
-- Frameworks: **_PySide6 (GUI de Escritorio)_**
-- Base de Datos: **_SQLite_**
+Frameworks: **_PySide6 (GUI de Escritorio)_**
+Base de Datos: **_SQLite_**
 
-- Generación de PDF: **_xhtml2pdf_**
-- Preparación de las plantillas HTML: **_Formateo nativo de strings_**  
+Generación de PDF: **_xhtml2pdf_**
+Preparación de las plantillas HTML: **_Formateo nativo de strings_**  
 
 **_Nota_**: Por motivos de confidencialidad y acuerdos de prácticas, el código fuente de este proyecto no puede ser publicado. Sin embargo, puedo detallar mi contribución y las tecnologías utilizadas en una entrevista.
 
