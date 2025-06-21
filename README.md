@@ -10,7 +10,7 @@ Uno de mis compañeros de prácticas es el propietario de este proyecto, ya que 
 Gracias a este proyecto, se han optimizado grandemente las gestiones internas del ayuntamiento, contribuyendo a una mejora significativa en su eficiencia.
 
 ### TECNOLOGÍAS UTILIZADAS
-- Lenguaje de Programación: **_Python_**.
+- Lenguaje de Programación: **_Python_**
 - Entorno de Desarrollo: **_Visual Studio Code_**
 - Patrón de Diseño y Arquitectura: **_MVC_**
 
