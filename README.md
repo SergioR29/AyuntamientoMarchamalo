@@ -16,6 +16,7 @@ Patrón de Diseño y Arquitectura: **_MVC_**
 
 Frameworks: **_PySide6 (GUI de Escritorio)_**  
 Base de Datos: **_SQLite_**  
+
 Generación de PDF: **_xhtml2pdf_**  
 Preparación de las plantillas HTML: **_Formateo nativo de strings_**  
 
