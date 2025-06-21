@@ -12,6 +12,8 @@ Gracias a este proyecto, se han optimizado grandemente las gestiones internas de
 ### TECNOLOGÍAS UTILIZADAS
 Lenguaje de Programación: **_Python_**  
 Entorno de Desarrollo: **_Visual Studio Code_**  
+Patrones de Diseño y Arquitectura: **_MVC_**  
+
 Frameworks: **_PySide6 (GUI de Escritorio)_**  
 Base de Datos: **_SQLite_**  
 Generación de PDF: **_xhtml2pdf_**  
