@@ -13,6 +13,4 @@ Gracias a este proyecto, se han optimizado grandemente las gestiones internas de
 
 ![Captura de pantalla 2025-06-21 112952](https://github.com/user-attachments/assets/40e625c9-189f-4055-a24b-2b41c87728f6)  
 
-![Captura de pantalla 2025-06-21 113034](https://github.com/user-attachments/assets/c2e865a1-893e-4228-9570-62eab619aa36)
-
 **_Nota_**: Por motivos de confidencialidad y acuerdos de prácticas, el código fuente de este proyecto no puede ser publicado. Sin embargo, puedo detallar mi contribución y las tecnologías utilizadas en una entrevista.
