@@ -17,7 +17,7 @@ Gracias a este proyecto, se han optimizado grandemente las gestiones internas de
 Lenguaje de Programación: **_Python_**.  
 Frameworks: **_PySide6 (GUI de Escritorio)_**.  
 Base de Datos: **_SQLite_**.  
-Generación de PDF: **_xhtml2pdf_**
+Generación de PDF: **_xhtml2pdf_**.  
 Preparación de las plantillas HTML: **_Formateo nativo de strings_**
 
 ## FICHA DEL EMPLEADO
