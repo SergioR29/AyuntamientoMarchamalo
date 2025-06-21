@@ -13,6 +13,9 @@ Gracias a este proyecto, se han optimizado grandemente las gestiones internas de
 
 ![Captura de pantalla 2025-06-18 122801](https://github.com/user-attachments/assets/5e549590-b55a-454d-956e-5a696309695d)  
 
+## FICHA DEL EMPLEADO
+![Captura de pantalla 2025-06-21 112952](https://github.com/user-attachments/assets/40e625c9-189f-4055-a24b-2b41c87728f6)  
+
 ## TECNOLOGÍAS UTILIZADAS
 Lenguaje de Programación: **_Python_**  
 Entorno de Desarrollo: **_Visual Studio Code_**  
@@ -20,6 +23,3 @@ Frameworks: **_PySide6 (GUI de Escritorio)_**
 Base de Datos: **_SQLite_**  
 Generación de PDF: **_xhtml2pdf_**  
 Preparación de las plantillas HTML: **_Formateo nativo de strings_**
-
-## FICHA DEL EMPLEADO
-![Captura de pantalla 2025-06-21 112952](https://github.com/user-attachments/assets/40e625c9-189f-4055-a24b-2b41c87728f6)  
