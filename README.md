@@ -9,8 +9,9 @@ Uno de mis compañeros de prácticas es el propietario de este proyecto, ya que 
 
 Gracias a este proyecto, se han optimizado grandemente las gestiones internas del ayuntamiento, contribuyendo a una mejora significativa en su eficiencia.
 
+**_Nota_**: Por motivos de confidencialidad y acuerdos de prácticas, el código fuente de este proyecto no puede ser publicado. Sin embargo, puedo detallar mi contribución y las tecnologías utilizadas en una entrevista.
+
 ![Captura de pantalla 2025-06-18 122801](https://github.com/user-attachments/assets/5e549590-b55a-454d-956e-5a696309695d)  
 
+## FICHA DEL EMPLEADO
 ![Captura de pantalla 2025-06-21 112952](https://github.com/user-attachments/assets/40e625c9-189f-4055-a24b-2b41c87728f6)  
-
-**_Nota_**: Por motivos de confidencialidad y acuerdos de prácticas, el código fuente de este proyecto no puede ser publicado. Sin embargo, puedo detallar mi contribución y las tecnologías utilizadas en una entrevista.
