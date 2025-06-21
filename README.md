@@ -17,7 +17,7 @@ Patrón de Diseño y Arquitectura: **_MVC_**
 Frameworks: **_PySide6 (GUI de Escritorio)_**  
 Base de Datos: **_SQLite_**  
 
-Generación de PDF: **_xhtml2pdf_**
+Generación de PDF: **_xhtml2pdf_**  
 Preparación de las plantillas HTML: **_Formateo nativo de strings_**  
 
 **_Nota_**: Por motivos de confidencialidad y acuerdos de prácticas, el código fuente de este proyecto no puede ser publicado. Sin embargo, puedo detallar mi contribución y las tecnologías utilizadas en una entrevista.
