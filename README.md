@@ -27,7 +27,7 @@ Preparación de las plantillas HTML: **_Formateo nativo de strings_**
 Mis principales áreas de desarrollo y responsabilidades en este proyecto fueron:
 
 * **Ventana Principal:**
-    * **_Competencias_**: Implementé la funcionalidad para crear y asociar competencias a cargos, facilitando así la evaluación de cada empleado según su rol.
+    * **_Competencias_**: Implementé la funcionalidad para crear y asociar competencias a cargos, facilitando así la evaluación de cada empleado según su cargo.
       
     * **_Medias_**: Desarrollé la visualización y la generación de informes en PDF sobre las notas medias de los empleados, distinguiendo entre aquellos con y sin calificación.
 
