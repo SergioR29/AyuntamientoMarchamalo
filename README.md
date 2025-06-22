@@ -22,7 +22,7 @@ Base de Datos: **_SQLite_**
 Generación de PDF: **_xhtml2pdf_**  
 Preparación de las plantillas HTML: **_Formateo nativo de strings_**  
 
-## APARTADOS QUE SE ME ENCARGARON Y FUERON DESARROLLADOS POR MÍ
+## MI CONTRIBUCIÓN Y RESPONSABILIDADES
 Ventana principal: **_Competencias_** para crear competencias asociadas a cargos correspondientes para evaluar a cada empleado según su cargo y **_Medias_** para visualizar y generar un informe en PDF sobre los empleados que tengan nota media y los que no la tengan.
 
 Ficha del empleado: En el apartado **_Informe_** fui el encargado del desarrollo de la funcionalidad para generar el PDF correspondiente y mi compañero fue el encargado de construir los datos del informe con las notas de cada competencia del empleado que tengan nota y de mostrar la nota media del empleado.  
