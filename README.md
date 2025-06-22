@@ -23,11 +23,17 @@ Generación de PDF: **_xhtml2pdf_**
 Preparación de las plantillas HTML: **_Formateo nativo de strings_**  
 
 ## MI CONTRIBUCIÓN Y RESPONSABILIDADES
-Ventana principal: **_Competencias_** para crear competencias asociadas a cargos correspondientes para evaluar a cada empleado según su cargo y **_Medias_** para visualizar y generar un informe en PDF sobre los empleados que tengan nota media y los que no la tengan.
 
-Ficha del empleado: En el apartado **_Informe_** fui el encargado del desarrollo de la funcionalidad para generar el PDF correspondiente y mi compañero fue el encargado de construir los datos del informe con las notas de cada competencia del empleado que tengan nota y de mostrar la nota media del empleado.  
+Mis principales áreas de desarrollo y responsabilidades en este proyecto fueron:
 
-- **_Evaluación_**: Fui el encargado de desarrollar la interfaz de usuario intuitiva además del código del módulo correspondiente a este apartado para darle funcionalidad y que la evaluación de cada empleado se pueda llevar a cabo correctamente. En este apartado se evalúa la competencia del cargo correspondiente a cada empleado poniendo la nota de la competencia según su nivel de desempeño y automáticamente se calcula la nota media de todas las competencias calificadas y se asocia a la evaluación creada para el empleado correspondiente.
+* **Ventana Principal:**
+    * **_Competencias_**: Implementé la funcionalidad para crear y asociar competencias a cargos, facilitando así la evaluación de cada empleado según su rol.
+    * **_Medias_**: Desarrollé la visualización y la generación de informes en PDF sobre las notas medias de los empleados, distinguiendo entre aquellos con y sin calificación.
+
+* **Ficha del Empleado:**
+    * En el apartado **_Informe_**, fui el encargado de desarrollar la funcionalidad completa para la **generación del PDF** correspondiente a la ficha del empleado. Mi compañero se centró en construir los datos del informe, incluyendo las notas de cada competencia del empleado y la visualización de la nota media.
+
+* **_Evaluación_**: Fui el responsable del desarrollo integral de este módulo, incluyendo tanto la **interfaz de usuario intuitiva** como el **código subyacente**. Esto permitió evaluar las competencias del cargo del empleado, registrar su nivel de desempeño, calcular automáticamente la nota media de todas las competencias calificadas y asociarla a la evaluación final del empleado.
 
 ## VENTANAS MÁS IMPORTANTES
 ![Captura de pantalla 2025-06-18 122801](https://github.com/user-attachments/assets/5e549590-b55a-454d-956e-5a696309695d)  
