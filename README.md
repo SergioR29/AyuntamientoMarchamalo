@@ -31,7 +31,7 @@ Mis principales áreas de desarrollo y responsabilidades en este proyecto fueron
     * **_Medias_**: Desarrollé la visualización y la generación de informes en PDF sobre las notas medias de los empleados, distinguiendo entre aquellos con y sin calificación.
 
 * **Ficha del Empleado:**
-    * En el apartado **_Informe_**, fui el encargado de desarrollar la funcionalidad completa para la **generación del PDF** correspondiente a la ficha del empleado. Mi compañero se centró en construir los datos del informe, incluyendo las notas de cada competencia del empleado y la visualización de la nota media.  
+    * **_Informe_**: Fui el encargado de desarrollar la funcionalidad completa para la **generación del PDF** correspondiente a la ficha del empleado. Mi compañero se centró en construir los datos del informe, incluyendo las notas de cada competencia del empleado y la visualización de la nota media. 
     * **_Evaluación_**: Fui el responsable del desarrollo integral de este módulo, incluyendo tanto la **interfaz de usuario intuitiva** como el **código subyacente**. Esto permitió evaluar las competencias del cargo del empleado, registrar su nivel de desempeño, calcular automáticamente la nota media de todas las competencias calificadas y asociarla a la evaluación final del empleado.
 
 ## VENTANAS MÁS IMPORTANTES
