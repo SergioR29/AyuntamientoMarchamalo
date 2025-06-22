@@ -27,7 +27,7 @@ Ventana principal: **_Competencias_** para crear competencias asociadas a cargos
 
 Ficha del empleado: En el apartado **_Informe_** fui el encargado del desarrollo de la funcionalidad para generar el PDF correspondiente y mi compañero fue el encargado de construir los datos del informe con las notas de cada competencia del empleado que tengan nota y de mostrar la nota media del empleado.  
 
-- **_Evaluación_**: Fui el encargado de desarrollar la interfaz de usuario intuitiva además del código del módulo correspondiente a este apartado para darle funcionalidad y que la evaluación de cada empleado se pueda llevar a cabo correctamente.  
+- **_Evaluación_**: Fui el encargado de desarrollar la interfaz de usuario intuitiva además del código del módulo correspondiente a este apartado para darle funcionalidad y que la evaluación de cada empleado se pueda llevar a cabo correctamente. En este apartado se evalúa la competencia del cargo correspondiente a cada empleado poniendo la nota de la competencia según su nivel de desempeño y automáticamente se calcula la nota media de todas las competencias calificadas y se asocia a la evaluación creada para el empleado correspondiente.
 
 ## VENTANAS MÁS IMPORTANTES
 ![Captura de pantalla 2025-06-18 122801](https://github.com/user-attachments/assets/5e549590-b55a-454d-956e-5a696309695d)  
