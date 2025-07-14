@@ -7,8 +7,11 @@ Mi contribución principal y completa se centró en la Generación de Documentos
 
 Uno de mis compañeros de prácticas es el propietario de este proyecto, ya que lo tuvo como TFG de DAM; él se encargó del envío de correos por SMTP y de la exportación de datos a CSV.
 
-Gracias a este proyecto, se han optimizado grandemente las gestiones internas del ayuntamiento, contribuyendo a una mejora significativa en su eficiencia.  
-
+Gracias a este proyecto, se han optimizado grandemente las gestiones internas del ayuntamiento, contribuyendo a una mejora significativa en su eficiencia. Debido a nuestro gran trabajo hemos salido en las redes sociales del ayuntamiento:  
+  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Logo de Instagram" width="40" height="40">](https://www.instagram.com/p/DKb6KS6M-bp/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Logo de Facebook" width="40" height="40">](https://www.facebook.com/AytoMarchamalo/posts/-el-ayuntamiento-y-el-ies-brianda-de-mendoza-colaboran-para-desarrollar-nuevo-so/1148917313932060/)
+  
 **_Nota_**: Por motivos de confidencialidad y acuerdos de prácticas, el código fuente de este proyecto no puede ser publicado. Sin embargo, puedo detallar mi contribución y las tecnologías utilizadas en una entrevista.
 
 ## TECNOLOGÍAS UTILIZADAS
