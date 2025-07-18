@@ -26,7 +26,7 @@ Generación de PDF: **_xhtml2pdf_**
 Preparación de las plantillas HTML: **_Formateo nativo de strings_**  
 
 ## MI CONTRIBUCIÓN Y RESPONSABILIDADES
-Metodología de Desarrollo: **_Scrum_**.  
+Metodologías de Desarrollo: **_Scrum_** y **_XP_**.  
 Mis principales áreas de desarrollo y responsabilidades en este proyecto fueron:
 
 * **Ventana Principal:**
