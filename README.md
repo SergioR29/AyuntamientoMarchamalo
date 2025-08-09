@@ -23,7 +23,7 @@ Frameworks: **_PySide6 (UI/UX de Escritorio)_**
 Base de Datos: **_SQLite_**  
 
 Generación de PDF: **_xhtml2pdf_**  
-Preparación de las plantillas HTML: **_Formateo nativo de strings_**  
+Preparación de las plantillas HTML y CSS: **_Formateo nativo de strings_**  
 
 ## MI CONTRIBUCIÓN Y RESPONSABILIDADES
 Metodologías de Desarrollo: **_Scrum_** y **_XP_**.  
