@@ -15,9 +15,9 @@ Gracias a este proyecto, se han optimizado grandemente las gestiones internas de
 **_Nota_**: Por motivos de confidencialidad y acuerdos de prácticas, el código fuente de este proyecto no puede ser publicado. Sin embargo, puedo detallar mi contribución y las tecnologías utilizadas en una entrevista.
 
 ## TECNOLOGÍAS UTILIZADAS
-Lenguaje de Programación: **_Python_**  
+Lenguaje de Programación: **_Python 3.12_**  
 Entorno de Desarrollo: **_Visual Studio Code_**  
-Patrón de Diseño y Arquitectura: **_MVC_**  
+Patrón de Diseño y Arquitectura: **MVC**  
 
 Frameworks: **_PySide6 (UI/UX de Escritorio)_**  
 Base de Datos: **_SQLite_**  
@@ -26,7 +26,7 @@ Generación de PDF: **_xhtml2pdf_**
 Preparación de las plantillas HTML y CSS: **_Formateo nativo de strings_**  
 
 ## MI CONTRIBUCIÓN Y RESPONSABILIDADES
-Metodologías de Desarrollo: **_Scrum_** y **_XP_**.  
+Metodologías de Desarrollo: **_Scrum_** y **XP**.  
 Mis principales áreas de desarrollo y responsabilidades en este proyecto fueron:
 
 * **Ventana Principal:**
