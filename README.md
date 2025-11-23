@@ -1,7 +1,7 @@
 # COLABORACIÓN CON EL AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
 Durante mis prácticas del 2º curso del CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM), colaboré en el desarrollo de esta aplicación de escritorio, diseñada para optimizar las gestiones internas del ayuntamiento de Marchamalo.  
 
-En el marco de esta colaboración, fui el encargado de desarrollar el 30% de los módulos, así como las interfaces UI/UX correspondientes a cada módulo que me fue asignado a desarrollar.
+En el marco de esta colaboración, fui el encargado de desarrollar el 30% de los módulos, así como las interfaces GUI correspondientes a cada módulo que me fue asignado a desarrollar.
 
 Mi contribución principal y completa se centró en la Generación de Documentos PDF. Fui responsable de construir las plantillas HTML necesarias y de implementar la funcionalidad completa para la automatización de la creación de informes y documentos en formato PDF.
 
