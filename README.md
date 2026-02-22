@@ -31,8 +31,7 @@ Base de Datos: **_SQLite_**
 Generación de PDF: **_xhtml2pdf_**  
 Preparación de las plantillas HTML y CSS: **_Formateo nativo de strings_**  
 
-## MI CONTRIBUCIÓN Y RESPONSABILIDADES
-Metodologías de Desarrollo: **_Scrum_** y **XP**.  
+## MI CONTRIBUCIÓN Y RESPONSABILIDADES 
 Mis principales áreas de desarrollo y responsabilidades en este proyecto fueron:
 
 * **Ventana Principal:**
