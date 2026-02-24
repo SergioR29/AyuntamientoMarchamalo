@@ -24,15 +24,15 @@ Noticia en las redes sociales del ayuntamiento:
 **_Nota_**: Por motivos de confidencialidad y acuerdos de prácticas, el código fuente de este proyecto no puede ser publicado. Sin embargo, puedo detallar mi contribución y las tecnologías utilizadas en una entrevista.
 
 ## TECNOLOGÍAS UTILIZADAS
-Lenguaje de Programación: **_Python 3.12_**  
-Entorno de Desarrollo: **_Visual Studio Code_**  
+Lenguaje de Programación: **Python 3.12**  
+Entorno de Desarrollo: **Visual Studio Code**  
 Patrón de Diseño y Arquitectura: **MVC**  
 
-Frameworks: **_PySide6 (GUI de Escritorio)_**  
-Base de Datos: **_SQLite_**  
+Frameworks: **PySide6 (GUI de Escritorio)**  
+Base de Datos: **SQLite**  
 
-Generación de PDF: **_xhtml2pdf_**  
-Preparación de las plantillas HTML y CSS: **_Formateo nativo de strings_**  
+Generación de PDF: **xhtml2pdf**  
+Preparación de las plantillas HTML y CSS: **Formateo nativo de strings**  
 
 ## MI CONTRIBUCIÓN Y RESPONSABILIDADES 
 Mis principales áreas de desarrollo y responsabilidades en este proyecto fueron:
