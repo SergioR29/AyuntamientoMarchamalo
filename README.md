@@ -51,4 +51,4 @@ Mis principales áreas de desarrollo y responsabilidades en este proyecto fueron
 <img src="https://github.com/user-attachments/assets/5e549590-b55a-454d-956e-5a696309695d" width="720" height="360">
 
 ## FICHA DEL EMPLEADO
-![Captura de pantalla 2025-06-21 112952](https://github.com/user-attachments/assets/40e625c9-189f-4055-a24b-2b41c87728f6)  
+<img src="https://github.com/user-attachments/assets/40e625c9-189f-4055-a24b-2b41c87728f6" width="720" height="360">
