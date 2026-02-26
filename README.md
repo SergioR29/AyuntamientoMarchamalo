@@ -1,6 +1,6 @@
 # COLABORACIÓN CON EL AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
 
-• He colaborado en el desarrollo de un proyecto de escritorio en local para optimizar y digitalizar los procesos de gestión del servicio de RRHH del ayuntamiento ya que antes la gestión era más repetitiva, manual y lenta mediante hojas de papel y archivos de Excel.
+• Como alumno de prácticas he colaborado en el desarrollo de un proyecto de escritorio en local para optimizar y digitalizar los procesos de gestión del servicio de RRHH del ayuntamiento ya que antes la gestión era más repetitiva, manual y lenta mediante hojas de papel y archivos de Excel.
 
 • Hemos sido un equipo de 4 alumnos trabajando en los diferentes ámbitos del desarrollo del proyecto de forma centralizada, siguiendo el patrón MVC y una metodología ágil basada en prototipado evolutivo con prácticas de XP.
 
