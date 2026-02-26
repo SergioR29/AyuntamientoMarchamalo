@@ -48,7 +48,7 @@ Mis principales áreas de desarrollo y responsabilidades en este proyecto fueron
     * **_Evaluación_**: Fui el responsable del desarrollo integral de este módulo, incluyendo tanto la **interfaz de usuario intuitiva** como el **código subyacente**. Esto permitió evaluar las competencias del cargo del empleado, registrar su nivel de desempeño, calcular automáticamente la nota media de todas las competencias calificadas y asociarla a la evaluación final del empleado.  
 
 ## VENTANA PRINCIPAL
-![Captura de pantalla 2025-06-18 122801](https://github.com/user-attachments/assets/5e549590-b55a-454d-956e-5a696309695d)  
+<img src="https://github.com/user-attachments/assets/5e549590-b55a-454d-956e-5a696309695d" width="720" height="360">
 
 ## FICHA DEL EMPLEADO
 ![Captura de pantalla 2025-06-21 112952](https://github.com/user-attachments/assets/40e625c9-189f-4055-a24b-2b41c87728f6)  
