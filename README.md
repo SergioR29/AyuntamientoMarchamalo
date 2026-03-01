@@ -4,7 +4,7 @@
 
 • Hemos sido un equipo de 4 alumnos trabajando en los diferentes ámbitos del desarrollo del proyecto de forma centralizada, siguiendo el patrón MVC y una metodología ágil basada en prototipado evolutivo con prácticas de XP.
 
-• He desarrollado los módulos del proyecto correspondientes a la evaluación de los empleados, la gestión de competencias y la generación de informes de desempeño en PDF, así como el front-end y lógica de datos correspondientes a cada módulo.
+• He desarrollado los módulos del proyecto correspondientes a la evaluación de los empleados, la gestión de competencias y la generación de informes de desempeño en PDF, así como el front-end y back-end correspondientes a cada módulo.
 
 • Para crear el back-end de los módulos se ha utilizado el lenguaje Python (v3.12) y una BD SQLite en local para conectar con la lógica de datos. 
 
