@@ -8,7 +8,7 @@
 
 • Para crear el back-end de los módulos se ha utilizado el lenguaje Python (v3.12) y una BD SQLite en local para conectar con la lógica de datos. 
 
-• Para construir el front-end de los módulos se ha utilizado el framework PySide6 de Qt.
+• Para construir el front-end de los módulos se ha utilizado la biblioteca PySide6 del framework Qt.
 
 • Para la generación de informes en PDF, he utilizado la librería xhtml2pdf. Para construir su aspecto visual (plantillas de los informes) he utilizado HTML y CSS.
 
