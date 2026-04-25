@@ -2,7 +2,7 @@
 
 • Como alumno de prácticas he colaborado en el desarrollo de un proyecto de escritorio en local para optimizar y digitalizar los procesos de gestión del servicio de RRHH del ayuntamiento ya que antes la gestión era más repetitiva, manual y lenta mediante hojas de papel y archivos de Excel.
 
-• Hemos sido un equipo de 4 alumnos trabajando en los diferentes ámbitos del desarrollo del proyecto de forma centralizada, siguiendo el patrón MVC y una metodología ágil basada en prototipado evolutivo con prácticas de XP.
+•	Hemos sido un equipo de 4 alumnos trabajando en los diferentes ámbitos del desarrollo del proyecto de forma centralizada, siguiendo una metodología ágil basada en prototipado evolutivo con prácticas de XP y aplicando la arquitectura MVC en la construcción del proyecto. 
 
 • He desarrollado los módulos del proyecto correspondientes a la evaluación de los empleados, la gestión de competencias y la generación de informes de desempeño en PDF, así como el front-end y back-end correspondientes a cada módulo.
 
