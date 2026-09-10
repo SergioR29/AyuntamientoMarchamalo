@@ -16,7 +16,6 @@
 
 • Hemos hecho una presentación de nuestro trabajo en el ayuntamiento. El cual ha sido muy destacado en las redes sociales del ayuntamiento, causando gran interés en otros ayuntamientos de alrededores.  
 <br/>  
-<br/>
 Noticia en las redes sociales del ayuntamiento:  
   
 <div>
