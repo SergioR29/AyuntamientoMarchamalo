@@ -7,6 +7,7 @@
 • Debido a su éxito y aceptación por parte de los usuarios, la aplicación fue desplegada inmediatamente y continúa actualmente en producción en el ayuntamiento.  
 
 • Esta experiencia reforzó mi enfoque en el desarrollo centrado en el usuario, priorizando la usabilidad y la creación de interfaces intuitivas con PySide6 y Qt Designer.  
+  
 
 Noticia en las redes sociales del ayuntamiento:  
   
