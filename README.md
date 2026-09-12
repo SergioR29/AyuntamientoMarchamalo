@@ -34,6 +34,8 @@ Mis principales áreas de desarrollo y responsabilidades en este proyecto fueron
     * **_Informe_**: Fui el encargado de desarrollar la funcionalidad completa para la **generación del PDF** correspondiente al informe general de desempeño del empleado. Mi compañero se centró en construir los datos del informe, incluyendo las notas de cada competencia del empleado y la visualización de la nota media.
       
     * **_Evaluación_**: Fui el responsable del desarrollo integral de este módulo, incluyendo tanto la **interfaz de usuario intuitiva** como el **código subyacente**. Esto permitió evaluar las competencias del cargo del empleado, registrar su nivel de desempeño, calcular automáticamente la nota media de todas las competencias calificadas y asociarla a la evaluación final del empleado.  
+      
+* Modificación de la base de datos para crear las nuevas tablas de competencias y de datos de evaluación de los empleados.  
 
 ## VENTANA PRINCIPAL
 <img src="https://github.com/user-attachments/assets/5e549590-b55a-454d-956e-5a696309695d" width="720" height="360">
