@@ -14,7 +14,6 @@ Funciones:
 - Visualización de las personas que cumplen trienio en los próximos 30 días.  
 - Configuración de notificaciones por correo electrónico en el que se pueden añadir hasta 3 emails destinatarios, marcar una casilla para activar un aviso de cumplimiento de trienio al enviar el correo y pulsar un botón para enviar un correo de trienios mediante el protocolo SMTP.  
 - Botón para recargar la información de nuevo en la tabla de empleados de la pantalla principal y en la de los empleados dados de baja.  
-<br/>  
 
 ![icono](https://github.com/user-attachments/assets/bbb46556-8048-4ffd-82fa-56f60876f87c)
 
