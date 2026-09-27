@@ -1,9 +1,22 @@
 # COLABORACIÓN CON EL AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
 
-Desarrollo colaborativo de una solución de escritorio compatible con Windows para optimizar procesos manuales de gestión de información de los empleados destinada al personal de RRHH. Proyecto presentado en redes sociales y producto final puesto en producción actualmente.
+Desarrollo colaborativo de una solución de escritorio compatible con Windows para optimizar procesos manuales de gestión de información de los empleados destinada al personal de RRHH. Proyecto presentado en redes sociales y producto final puesto en producción actualmente.  
+  
+Funciones:  
+  
+- Evaluación de los empleados.  
+- Gestión de competencias.  
+- Generación de informes de desempeño y del listado de las notas medias de todos los empleados en PDF.  
+- Visualización de ayuda práctica para el usuario en el uso de la aplicación.  
+- Exportación masiva de datos de los empleados en un fichero CSV que puede ser visualizado manualmente en Excel.  
+- Función que permite dar de baja al empleado seleccionado.  
+- Gestión de los empleados dados de baja y posibilidad de eliminar la baja de cada uno por separado.  
+- Visualización de las personas que cumplen trienio en los próximos 30 días.  
+- Configuración de notificaciones por correo electrónico en el que se pueden añadir hasta 3 emails destinatarios, marcar una casilla para activar un aviso de cumplimiento de trienio al enviar el correo y pulsar un botón para enviar un correo de trienios mediante el protocolo SMTP.  
+- Botón para recargar la información de nuevo en la tabla de empleados de la pantalla principal y en la de los empleados dados de baja.  
 <br/>  
-
-![icono](https://github.com/user-attachments/assets/bbb46556-8048-4ffd-82fa-56f60876f87c)
+  
+![icono](https://github.com/user-attachments/assets/bbb46556-8048-4ffd-82fa-56f60876f87c)  
 
 Noticia en las redes sociales del ayuntamiento:  
   
