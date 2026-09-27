@@ -2,6 +2,9 @@
 
 Desarrollo colaborativo de una solución de escritorio compatible con Windows para optimizar procesos manuales de gestión de información de los empleados destinada al personal de RRHH. Proyecto presentado en redes sociales y producto final puesto en producción actualmente.
 <br/>  
+
+![icono](https://github.com/user-attachments/assets/bbb46556-8048-4ffd-82fa-56f60876f87c)
+
 Noticia en las redes sociales del ayuntamiento:  
   
 <div>
