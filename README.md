@@ -2,7 +2,7 @@
 
 Desarrollo colaborativo de una solución de escritorio compatible con Windows para optimizar procesos manuales de gestión de información de los empleados destinada al personal de RRHH. Proyecto presentado en redes sociales y producto final puesto en producción actualmente.  
   
-Funciones:  
+**Funciones**:  
   
 - Evaluación de los empleados.  
 - Gestión de competencias.  
