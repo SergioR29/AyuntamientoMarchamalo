@@ -31,7 +31,7 @@ Lenguaje de Programación: **Python 3.12**
 Entorno de Desarrollo: **Visual Studio Code**  
 Patrón de Diseño y Arquitectura: **MVC**  
 
-Frameworks: **PySide6 (GUI de Escritorio)**  
+Frameworks: **PySide6 (Qt)**  
 Base de Datos: **SQLite**  
 
 Generación de PDF: **xhtml2pdf**  
